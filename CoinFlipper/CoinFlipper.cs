@@ -21,7 +21,7 @@ public class Program
 			Console.WriteLine("Enter 'y' or 'Y' to play again, enter anything else to end game: ");
 			string userInput = Console.ReadLine().ToUpper();
 
-			if(userInput == 'Y')
+			if(userInput.Equals('Y'))
 
 			playAgain = true;
 
