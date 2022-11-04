@@ -1,5 +1,6 @@
 ﻿namespace GameCollection.Guessing
 {
+    //! This class is for the Number Guesser Game
     public class Guess
     {
         // Fields
