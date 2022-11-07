@@ -40,7 +40,7 @@ public class UnitTest1
         int secret = 5;
         int user = 5;
         string expected = "Congatulations, you've guessed the secret number!";
-        // We're creating a function and fake values that will passed through the function
+        // We're creating an object and fake values that will passed through the function
         // in order for us to run our test case. We also have a string variable that will
         // be used to compare the result that we want it to be
 
