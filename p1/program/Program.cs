@@ -2,9 +2,11 @@
 using System.Reflection;
 
 
-//!YOU FUCKED UP, YOU DO NOT HAVE A STABLE PROGRAM FOR P1 YOU NEED TO RECREATE A STABLE PROGRAM BEFORE WORKING ON YOUR TESTING PROGRAM
-//!YOU DUMB BITCH, YOU BETTER LEARN YOUR FUCKING LESSON BEFORE YOU CONTINUE TO FUCK UP ON YOUR P1
-//!LOVE YOU, FROM THE PAST PISITH =)
+/* Friendly reminder to always create a stable program on your main branch
+ * AND PUSH IT, we need to always set the foundation of our program and creating
+ * a stable version after testing and working new program to add is always the
+ * best way to about it. This is just a friendly reminder
+ */
 
 class Program
 {
